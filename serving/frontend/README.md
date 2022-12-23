@@ -17,3 +17,11 @@ Initially, these tabs should be supported:
   - lets a user create/delete a gateway
 
 ![](../../img/serving.png)
+
+Additionally to tabs, we can add a `Deploy` button that allows to enter a configuration page for adding a new model.
+
+---
+
+### Tools
+
+React + MUI ?
