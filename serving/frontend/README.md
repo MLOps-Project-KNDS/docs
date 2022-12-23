@@ -1,8 +1,8 @@
 # Serving Frontend
 
-UI should let a user to easily check deployed models, deploy new models or remove existing.
+UI should let a user easily check deployed models, deploy new models or remove existing ones.
 
-Initially, these tabs should be supported:
+Initially, the frontend should support these tabs:
 
 - **models**
   - list of all deployed models
@@ -18,7 +18,7 @@ Initially, these tabs should be supported:
 
 ![](../../img/serving.png)
 
-Additionally to tabs, we can add a `Deploy` button that allows to enter a configuration page for adding a new model.
+Additionally, to tabs, we can add a Deploy button to enter a configuration page for adding a new model.
 
 ## Tools
 
