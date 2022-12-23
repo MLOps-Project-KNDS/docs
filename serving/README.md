@@ -6,6 +6,8 @@ Kubeflow itself doesn't provide a toolkit for serving. We want to add a service 
 
 ---
 
-### See [frontend](./frontend/)
+### See [Frontend](./frontend/)
 
-### See [backend](./backend/)
+### See [Backend](./backend/)
+
+### Go back to [Docs](../)

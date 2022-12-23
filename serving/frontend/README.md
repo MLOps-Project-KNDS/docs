@@ -20,8 +20,10 @@ Initially, these tabs should be supported:
 
 Additionally to tabs, we can add a `Deploy` button that allows to enter a configuration page for adding a new model.
 
----
-
-### Tools
+## Tools
 
 React + MUI ?
+
+---
+
+### Go back to [Serving](../)

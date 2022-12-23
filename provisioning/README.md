@@ -8,3 +8,7 @@ In our case, initially, we need a pipeline (github workflow) consisting of two s
 - Install Kubeflow - that installs Kubeflow on an existing GKE cluster.
 
 Possibly, we'll add more stages ;)
+
+---
+
+### Go back to [Docs](../)
