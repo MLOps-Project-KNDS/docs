@@ -18,7 +18,7 @@ Initially, the frontend should support these tabs:
 
 ![](../../img/serving.png)
 
-Additionally, to tabs, we can add a Deploy button to enter a configuration page for adding a new model.
+Additionally to tabs, we add a `Deploy` button to enter a configuration page for adding a new model.
 
 ## Tools
 
