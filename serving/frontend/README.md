@@ -16,4 +16,4 @@ Initially, these tabs should be supported:
   - list of all existing gateways
   - lets a user create/delete a gateway
 
-![](../../../img/serving.png)
+![](../../img/serving.png)
