@@ -1,6 +1,6 @@
 # Serving Backend
 
-The backend features are defined by the [frontend's](../frontend/) needs.
+Backend's features are defined by [frontend's](../frontend/) needs.
 
 ### Tools
 
